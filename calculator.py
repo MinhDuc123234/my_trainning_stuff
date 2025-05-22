@@ -24,3 +24,4 @@ if __name__ == "__main__":
 
 print('tôi đẹp trai')
 print('suck my dick')
+print('boy scott')
