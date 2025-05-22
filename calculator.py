@@ -20,3 +20,6 @@ if __name__ == "__main__":
     print("10 - 5 =", subtract(10, 5))
     print("4 * 3 =", multiply(4, 3))
     print("8 / 2 =", divide(8, 2))
+
+
+print('tôi đẹp trai')
